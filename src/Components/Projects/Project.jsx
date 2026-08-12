@@ -11,7 +11,7 @@ import { FaGithub, FaTimes } from "react-icons/fa";
 
 const projects = [
   {
-    name: "My Protfolio",
+    name: "My Portfolio",
     img: project1,
     desc: "A personal portfolio website built with React.js to showcase my skills, projects, experience, and professional profile with a clean and responsive design.",
     github: "https://github.com/bhaskarpatil123",
